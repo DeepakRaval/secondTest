@@ -28,7 +28,6 @@ public class Loop_1 {
 
 		/*
 		 * ************************************************************ For_each Loop
-		 this is trial testing for watching change at git hub by using git comand
 		 */
 		
 		// Commonly used for loop to execute whole array at one time
@@ -46,7 +45,7 @@ public class Loop_1 {
 	}
 }
 /*
- * unrechable codee --> error = check comprison condition every time to avoid
+ * --> error = check comprison condition every time to avoid
  * this type of error
  * 
  * debug--> prespective
