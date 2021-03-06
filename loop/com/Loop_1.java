@@ -28,6 +28,7 @@ public class Loop_1 {
 
 		/*
 		 * ************************************************************ For_each Loop
+		 this is trial testing for watching change at git hub by using git comand
 		 */
 		
 		// Commonly used for loop to execute whole array at one time
